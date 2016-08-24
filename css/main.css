@@ -1,0 +1,9 @@
+/* Escribe tu css aqui */
+div{
+	display: block;
+	background-color: yellow;
+	height: 140px;
+}
+.red{
+	background-color:#E6086D;
+}
